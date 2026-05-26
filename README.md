@@ -7,7 +7,7 @@
 
 ## Project Details
 - **Project Directory:** narracabinstagaytay
-- **Subdomain:** https://narracabinstagaytay.vikaph.com (pending DNS configuration)
+- **Subdomain:** https://narracabinstagaytay.vikaph.com
 - **GitHub Repo:** https://github.com/gabconcepcionph/narracabinstagaytay
 - **Vercel URL:** https://narracabinstagaytay.vercel.app
 
@@ -21,7 +21,7 @@
 - **Git Repository:** created
 - **Vercel Deployment:** deployed
 - **QA Status:** passed
-- **Subdomain:** pending DNS configuration (requires vikaph.com domain access)
+- **Subdomain:** configured
 
 ## Notes
 - Exclusive A-frame cabin retreat in Silang, Cavite
