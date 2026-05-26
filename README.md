@@ -7,9 +7,9 @@
 
 ## Project Details
 - **Project Directory:** narracabinstagaytay
-- **Subdomain:** https://narracabinstagaytay.vikaph.com
+- **Subdomain:** https://narracabinstagaytay.vikaph.com (pending DNS configuration)
 - **GitHub Repo:** https://github.com/gabconcepcionph/narracabinstagaytay
-- **Vercel URL:** -
+- **Vercel URL:** https://narracabinstagaytay.vercel.app
 
 ## Trello Card
 - **Card ID:** 6a0aa73bacd88446b2f8d60c
@@ -19,8 +19,9 @@
 
 ## Deployment Status
 - **Git Repository:** created
-- **Vercel Deployment:** pending
-- **QA Status:** pending
+- **Vercel Deployment:** deployed
+- **QA Status:** passed
+- **Subdomain:** pending DNS configuration (requires vikaph.com domain access)
 
 ## Notes
 - Exclusive A-frame cabin retreat in Silang, Cavite
